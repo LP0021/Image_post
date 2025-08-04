@@ -1,0 +1,8 @@
+Folder contains image files.
+
+The images serve as an example of a stack of images sequenced, with varying whitebalance and a shutterspeed adjustment in the middle of the sequence causing an abrupt change in the lighting.
+
+When stacked into a video sequence, this type of delta in light and hence brightness causes a flash or blip undersired in the video.
+This is precicely what the script is targetting to smooth out.
+
+Sample images made availble to test out script effectiveness.
